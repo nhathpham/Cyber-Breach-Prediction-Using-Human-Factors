@@ -11,6 +11,7 @@ Objectives of the project include:<br />
 breaches. <br />
 • Propose a prototype for a “Cyber-Risk Index” using the behavioral attributes <br />
 <br />
+
 ![innsure](https://user-images.githubusercontent.com/87089936/196846695-f05afbed-f330-4b84-82d5-b85d2c399752.PNG)<br />
 
 <h2>II/ Results</h2>
