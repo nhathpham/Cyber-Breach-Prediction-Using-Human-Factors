@@ -22,7 +22,8 @@ breaches. <br />
 + A scraper tool using Selenium in Python that is able to capture various information facets of a Linked-In Profile<br />
 + ~1000 executive profile data, with a healthy sample size, in healthcare AND non-healthcare industries. <br />
 <br />
-Example of scraped profiles:
+Example of scraped profiles:<br />
+
 ![scraped_profile](https://user-images.githubusercontent.com/87089936/196847029-8bf9742f-960f-4516-a06f-4f4c7eaa80ac.PNG)<br />
 <br />
 
