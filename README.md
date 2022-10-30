@@ -1,5 +1,5 @@
 # Predicting Data Breaches Using Human Factors
-Authors: Nhat Pham, Julie Corfman, Yuhan Qiu, Will Gandre
+Authors: Nhat Pham, Julie Corfman, Yuhan Qiu, Will Gandre  <br />
 Data source: Linkedin Profiles, People Data Lab, Veris Data Breach (http://veriscommunity.net/vcdb.html)
 
 <h2>I/ Abstract: </h2>
